@@ -1,14 +1,29 @@
+name: White-Walls.com
+favicon: null
 layout_spectrum: 0.3082437
 typography_spectrum: 0.8781362
+title: 'White Walls, Ballymoney'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1247061
-  lightness: 0.3784389
-  brandStrength: 0.7473118
   brandColors:
     - '#E0E0E0'
     - '#0D0D0C'
     - '#4B391F'
     - '#9AACBC'
     - '#646F77'
+  brandStrength: 0.7473118
+  lightness: 0.3784389
+  saturation: 0.1247061
   rhythmicContrast: 0.02480345
-name: White-Walls.com
+purpose: []
